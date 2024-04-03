@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-apikey= os.environ.get("API_KEY")
+apikey= os.environ.get("ANTHROPIC_API_KEY")
 
 
 def analyze_comment(comment):
