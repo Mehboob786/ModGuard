@@ -1,6 +1,6 @@
 Certainly! Below is the README file content consolidated into a single file:
 
-```markdown
+
 # Django Application README
 
 Welcome to our Django application! This application provides endpoints to retrieve single messages and lists of messages.
