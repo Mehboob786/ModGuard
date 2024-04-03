@@ -14,7 +14,6 @@ Welcome to our Django application! This application provides endpoints to Check 
 - [Customization](#customization)
   - [Editing Functions](#editing-functions)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -77,8 +76,3 @@ After editing the functions, make sure to restart the Django development server 
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
