@@ -1,6 +1,3 @@
-Certainly! Below is the README file content consolidated into a single file:
-
-
 # Django Application README
 
 Welcome to our Django application! This application provides endpoints to Check The Harassment Level of single messages and lists of messages Using AI. The ModGuard repository introduces a Django-based application designed to evaluate the harassment level of messages using AI technology from Anthropic. This innovative tool leverages advanced AI models to analyze text content, identifying potential harassment and enabling proactive moderation measures. By integrating Anthropic's AI, ModGuard aims to create safer online environments, facilitating real-time assessment and moderation of user interactions. This introduction sets the stage for exploring the application's capabilities, setup, and integration process, emphasizing its role in enhancing online communication safety through AI-driven content moderation.
