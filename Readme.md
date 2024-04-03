@@ -37,9 +37,9 @@ For handling API keys securely in your Django application, such as the ones you 
 
 .env File Structure
 Your .env file should contain key-value pairs, where each key is the name of the environment variable and the value is the secret API key or token. For instance:
-
+```
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
-
+```
 
 ## Usage
 
@@ -57,8 +57,8 @@ The development server will start running at http://127.0.0.1:8000/.
 
 Once the server is running, you can access the following endpoints:
 
-- Single message: `http://127.0.0.1:8000/your_app/single_message/`
-- Message list: `http://127.0.0.1:8000/your_app/message_list/`
+- Single message: `http://127.0.0.1:8000/single_message/`
+- Message list: `http://127.0.0.1:8000/message_list/`
 
 ## Customization
 
