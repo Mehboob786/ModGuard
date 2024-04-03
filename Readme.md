@@ -3,7 +3,7 @@ Certainly! Below is the README file content consolidated into a single file:
 
 # Django Application README
 
-Welcome to our Django application! This application provides endpoints to retrieve single messages and lists of messages.
+Welcome to our Django application! This application provides endpoints to Check The Harassment Level of single messages and lists of messages Using AI.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ To use this application, follow these steps:
 1. Clone the repository:
 
 ```
-git clone [<repository-url>](https://github.com/Mehboob786/ModGuard.git)
+git clone https://github.com/Mehboob786/ModGuard.git
 ```
 
 2. Install dependencies:
